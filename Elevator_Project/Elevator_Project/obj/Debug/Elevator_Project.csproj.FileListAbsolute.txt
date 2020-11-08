@@ -35,3 +35,13 @@ C:\Users\Administrator\Desktop\Elevator_Project\Elevator_Project\Elevator_Projec
 C:\Users\Administrator\Desktop\Elevator_Project\Elevator_Project\Elevator_Project\obj\Debug\Elevator_Project.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Desktop\Elevator_Project\Elevator_Project\Elevator_Project\obj\Debug\Elevator_Project.exe
 C:\Users\Administrator\Desktop\Elevator_Project\Elevator_Project\Elevator_Project\obj\Debug\Elevator_Project.pdb
+C:\Users\Administrator\Desktop\Elevator-Management-System\Elevator_Project\Elevator_Project\bin\Debug\Elevator_Project.exe.config
+C:\Users\Administrator\Desktop\Elevator-Management-System\Elevator_Project\Elevator_Project\bin\Debug\Elevator_Project.exe
+C:\Users\Administrator\Desktop\Elevator-Management-System\Elevator_Project\Elevator_Project\bin\Debug\Elevator_Project.pdb
+C:\Users\Administrator\Desktop\Elevator-Management-System\Elevator_Project\Elevator_Project\obj\Debug\Elevator_Project.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Elevator-Management-System\Elevator_Project\Elevator_Project\obj\Debug\Elevator_Project.Main_Form.resources
+C:\Users\Administrator\Desktop\Elevator-Management-System\Elevator_Project\Elevator_Project\obj\Debug\Elevator_Project.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Elevator-Management-System\Elevator_Project\Elevator_Project\obj\Debug\Elevator_Project.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Elevator-Management-System\Elevator_Project\Elevator_Project\obj\Debug\Elevator_Project.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Elevator-Management-System\Elevator_Project\Elevator_Project\obj\Debug\Elevator_Project.exe
+C:\Users\Administrator\Desktop\Elevator-Management-System\Elevator_Project\Elevator_Project\obj\Debug\Elevator_Project.pdb
