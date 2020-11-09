@@ -2,15 +2,9 @@
 {
     partial class Main_Form
     {
-        /// <summary>
-        /// Required designer variable.
-        /// </summary>
+
         private System.ComponentModel.IContainer components = null;
 
-        /// <summary>
-        /// Clean up any resources being used.
-        /// </summary>
-        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
@@ -22,10 +16,6 @@
 
         #region Windows Form Designer generated code
 
-        /// <summary>
-        /// Required method for Designer support - do not modify
-        /// the contents of this method with the code editor.
-        /// </summary>
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
@@ -104,7 +94,7 @@
             // 
             // Main_tableLayoutPanel
             // 
-            this.Main_tableLayoutPanel.BackColor = System.Drawing.Color.LightGray;
+            this.Main_tableLayoutPanel.BackColor = System.Drawing.Color.Maroon;
             this.Main_tableLayoutPanel.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.Main_tableLayoutPanel.ColumnCount = 7;
             this.Main_tableLayoutPanel.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 25F));
@@ -170,7 +160,7 @@
             // elevator_floor1_btn_up
             // 
             this.elevator_floor1_btn_up.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.elevator_floor1_btn_up.BackColor = System.Drawing.Color.Transparent;
+            this.elevator_floor1_btn_up.BackColor = System.Drawing.Color.Maroon;
             this.elevator_floor1_btn_up.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("elevator_floor1_btn_up.BackgroundImage")));
             this.elevator_floor1_btn_up.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.elevator_floor1_btn_up.Location = new System.Drawing.Point(453, 502);
@@ -223,6 +213,7 @@
             this.label2.TabIndex = 6;
             this.label2.Text = "Elevator Inside Controler";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+           
             // 
             // label1
             // 
@@ -238,7 +229,7 @@
             // 
             // elevator_Control_panel
             // 
-            this.elevator_Control_panel.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.elevator_Control_panel.BackColor = System.Drawing.Color.Maroon;
             this.elevator_Control_panel.CellBorderStyle = System.Windows.Forms.TableLayoutPanelCellBorderStyle.Inset;
             this.elevator_Control_panel.ColumnCount = 1;
             this.elevator_Control_panel.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
@@ -258,7 +249,7 @@
             // button_floor_2
             // 
             this.button_floor_2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)));
-            this.button_floor_2.BackColor = System.Drawing.Color.Transparent;
+            this.button_floor_2.BackColor = System.Drawing.Color.Red;
             this.button_floor_2.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button_floor_2.BackgroundImage")));
             this.button_floor_2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.button_floor_2.Location = new System.Drawing.Point(81, 131);
@@ -287,7 +278,7 @@
             // button_floor_1
             // 
             this.button_floor_1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)));
-            this.button_floor_1.BackColor = System.Drawing.Color.Transparent;
+            this.button_floor_1.BackColor = System.Drawing.Color.Red;
             this.button_floor_1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button_floor_1.BackgroundImage")));
             this.button_floor_1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.button_floor_1.Location = new System.Drawing.Point(80, 54);
@@ -317,7 +308,7 @@
             this.database_grid_view.AllowUserToResizeColumns = false;
             this.database_grid_view.AllowUserToResizeRows = false;
             this.database_grid_view.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
-            this.database_grid_view.BackgroundColor = System.Drawing.SystemColors.ButtonFace;
+            this.database_grid_view.BackgroundColor = System.Drawing.Color.Maroon;
             this.database_grid_view.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.database_grid_view.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.database_grid_view.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
@@ -351,7 +342,7 @@
             // elevator_floor2_btn_down
             // 
             this.elevator_floor2_btn_down.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.elevator_floor2_btn_down.BackColor = System.Drawing.Color.Transparent;
+            this.elevator_floor2_btn_down.BackColor = System.Drawing.Color.Maroon;
             this.elevator_floor2_btn_down.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("elevator_floor2_btn_down.BackgroundImage")));
             this.elevator_floor2_btn_down.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.elevator_floor2_btn_down.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
@@ -647,7 +638,7 @@
             this.floor_labels2.BackColor = System.Drawing.Color.Transparent;
             this.floor_labels2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.floor_labels2.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F);
-            this.floor_labels2.ForeColor = System.Drawing.SystemColors.InactiveCaptionText;
+            this.floor_labels2.ForeColor = System.Drawing.Color.White;
             this.floor_labels2.Location = new System.Drawing.Point(255, 0);
             this.floor_labels2.Name = "floor_labels2";
             this.floor_labels2.Size = new System.Drawing.Size(185, 66);
@@ -661,7 +652,7 @@
             this.floor_labels1.BackColor = System.Drawing.Color.Transparent;
             this.floor_labels1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.floor_labels1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F);
-            this.floor_labels1.ForeColor = System.Drawing.SystemColors.InactiveCaptionText;
+            this.floor_labels1.ForeColor = System.Drawing.Color.White;
             this.floor_labels1.Location = new System.Drawing.Point(255, 337);
             this.floor_labels1.Name = "floor_labels1";
             this.floor_labels1.Size = new System.Drawing.Size(185, 66);
