@@ -691,7 +691,7 @@
             this.Name = "Main_Form";
             this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Elevator v1.0";
+            this.Text = "Elevator management system";
             this.Main_tableLayoutPanel.ResumeLayout(false);
             this.Main_tableLayoutPanel.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
