@@ -94,7 +94,7 @@
             // 
             // Main_tableLayoutPanel
             // 
-            this.Main_tableLayoutPanel.BackColor = System.Drawing.Color.Maroon;
+            this.Main_tableLayoutPanel.BackColor = System.Drawing.Color.Purple;
             this.Main_tableLayoutPanel.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.Main_tableLayoutPanel.ColumnCount = 7;
             this.Main_tableLayoutPanel.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 25F));
@@ -187,7 +187,7 @@
             // 
             // Control_panel
             // 
-            this.Control_panel.BackColor = System.Drawing.SystemColors.InactiveBorder;
+            this.Control_panel.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.Control_panel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.Control_panel.Controls.Add(this.label2);
             this.Control_panel.Controls.Add(this.label1);
@@ -229,7 +229,8 @@
             // 
             // elevator_Control_panel
             // 
-            this.elevator_Control_panel.BackColor = System.Drawing.Color.Maroon;
+            this.elevator_Control_panel.BackColor = System.Drawing.Color.MediumPurple;
+            this.elevator_Control_panel.ForeColor = System.Drawing.Color.White;
             this.elevator_Control_panel.CellBorderStyle = System.Windows.Forms.TableLayoutPanelCellBorderStyle.Inset;
             this.elevator_Control_panel.ColumnCount = 1;
             this.elevator_Control_panel.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
@@ -263,10 +264,10 @@
             // control_label
             // 
             this.control_label.AutoSize = true;
-            this.control_label.BackColor = System.Drawing.Color.Transparent;
+            this.control_label.BackColor = System.Drawing.Color.MediumPurple;
             this.control_label.Dock = System.Windows.Forms.DockStyle.Fill;
             this.control_label.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.control_label.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.control_label.ForeColor = System.Drawing.Color.White;
             this.control_label.Location = new System.Drawing.Point(2, 12);
             this.control_label.Margin = new System.Windows.Forms.Padding(0, 10, 0, 10);
             this.control_label.Name = "control_label";
@@ -300,6 +301,9 @@
             this.Display_db_Log_btn.Text = "Show Elevator Logs";
             this.Display_db_Log_btn.UseVisualStyleBackColor = true;
             this.Display_db_Log_btn.Click += new System.EventHandler(this.Display_db_Log_btn_Click);
+            this.Display_db_Log_btn.BackColor = System.Drawing.Color.MediumPurple;
+            this.Display_db_Log_btn.ForeColor = System.Drawing.Color.White;
+              
             // 
             // database_grid_view
             // 
@@ -308,7 +312,7 @@
             this.database_grid_view.AllowUserToResizeColumns = false;
             this.database_grid_view.AllowUserToResizeRows = false;
             this.database_grid_view.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
-            this.database_grid_view.BackgroundColor = System.Drawing.Color.Maroon;
+            this.database_grid_view.BackgroundColor = System.Drawing.Color.MediumPurple;
             this.database_grid_view.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.database_grid_view.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.database_grid_view.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
