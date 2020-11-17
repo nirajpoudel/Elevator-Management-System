@@ -18,6 +18,13 @@ The automatic elevator system is design in such a way that it has two floors nam
 
 <img src="https://user-images.githubusercontent.com/59787504/99368049-d3703c00-28e2-11eb-95e8-eaa4f0d1fa0c.png">
 
+## How to use?
+
+Step1 1: Clone the repository.
+`git clone https://github.com/nirajpoudel18/Elevator-Management-System.git`
+
+Step 2: Open Microsoft visual studio and run `MainForm.cs` file which is inside elevator_project folder.
+
 
 ## Code Snippets
 
