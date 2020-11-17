@@ -9,8 +9,8 @@ The automatic elevator system is design in such a way that it has two floors nam
 
 ## Technology used for development
 
-Programming language: c#
-IDE: Microsoft Visual Studio
-Database: Microsoft Access
-Operating system: Microsoft windows 10
+* Programming language: c#
+* IDE: Microsoft Visual Studio
+* Database: Microsoft Access
+* Operating system: Microsoft windows 10
 
