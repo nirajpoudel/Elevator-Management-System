@@ -7,3 +7,10 @@ The automatic elevator system is a c# application created to solve the real worl
 
 The automatic elevator system is design in such a way that it has two floors named floor1 and floor2.The elevator inside controller contains two buttons 1 and 2. When the user clicks button 1 elevator moves to the floor 1 and when button 2 is pressed elevator heads towards floor number 2. There is also the label which can show that in which floor the elevator is in. Below that there an automatic elevator log. Which slows the information of elevator state and arrived date with time at the particular floor. In the right side top one is the floor number 2 and bottom one is the floor number 1. If the lift is in second floor, by pressing the down arrow beside the lift door, the doors will be automatically opened and closed after the few seconds. Then it will move lift down to the first floor. Same continues for floor 1 as well.
 
+## Technology used for development
+
+Programming language: c#
+IDE: Microsoft Visual Studio
+Database: Microsoft Access
+Operating system: Microsoft windows 10
+
