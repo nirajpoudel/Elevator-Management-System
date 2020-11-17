@@ -17,3 +17,11 @@ The automatic elevator system is design in such a way that it has two floors nam
 ## User Interface
 
 <img src="https://user-images.githubusercontent.com/59787504/99368049-d3703c00-28e2-11eb-95e8-eaa4f0d1fa0c.png">
+
+
+## Code Snippets
+
+<img src="https://user-images.githubusercontent.com/59787504/99368123-e71ba280-28e2-11eb-924d-afa37e16659e.png">
+<img src="https://user-images.githubusercontent.com/59787504/99368130-e84ccf80-28e2-11eb-9166-8de2de5473e3.png">
+<img src="https://user-images.githubusercontent.com/59787504/99368134-e8e56600-28e2-11eb-9550-3a209066373b.png">
+<img src="https://user-images.githubusercontent.com/59787504/99368139-ea169300-28e2-11eb-9f14-aac1440a930c.png">
